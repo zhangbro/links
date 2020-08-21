@@ -1,10 +1,8 @@
-# links
-
-一些有用的链接，免得还要fork到自己仓库
+# Links - 一些有用的工具
 
 ---
 
->## 学习
+## 学习
 
 - [【软件版本号命名规范】](https://semver.org/lang/zh-CN/) 软件版本号命名规范
 
@@ -19,11 +17,26 @@
 
 ---
 
->## 工具｜仓库导航
+## 工具｜仓库导航
 
 - [【Navicat-keygen】](https://github.com/JohnHubcr/navicat-keygen) 嗯 没错！
-
 - [【idea插件git模版】](https://github.com/JetBrains/intellij-platform-plugin-template) idea插件git模版
-
 - [【openjdk 版本信息 docker镜像】](https://github.com/docker-library/docs/tree/master/openjdk) openjdk 版本信息 docker镜像
 - [【docker官方镜像】](https://github.com/docker-library/docs) docker官方镜像
+- [【Java版本切换】 ](https://github.com/jenv/jenv) Java版本管理
+
+
+
+## IDEA 插件导航 链接后面是名称
+
+- [【好东西分享，懂吧？】](https://tech.souyunku.com/?p=16235) 哎嘿～
+- [【Idea 插件官网】](https://plugins.jetbrains.com/) Idea 插件官网
+- [【阿里巴巴代码规约扫描】](https://plugins.jetbrains.com/plugin/10046-alibaba-java-coding-guidelines/) Alibaba Java Coding Guidelines
+- [【变量形式转换】](https://plugins.jetbrains.com/plugin/7160-camelcase/)  camelCase
+- [【控制台输出过滤、分类、按照不同级别设置颜色】](https://plugins.jetbrains.com/plugin/7125-grep-console/) Grep Console
+- [【热部署插件（需要激活）】](https://plugins.jetbrains.com/plugin/4441-jrebel-and-xrebel-for-intellij/) JRebel and XRebel for IntelliJ
+- [【热部署插件（mybatis扩展）支持mybatis的xml文件热部署】](https://plugins.jetbrains.com/plugin/12682-jrebel-mybatisplus-extension/) JRebel MybatisPlus extension
+- [【Lombok 神器】](https://plugins.jetbrains.com/plugin/6317-lombok/) Lombok
+- [【mybatis的xml与java文件关联】](https://plugins.jetbrains.com/plugin/10119-mybatisx/) MybatisX
+- [【最强翻译插件】](https://plugins.jetbrains.com/plugin/8579-translation/) translation
+
