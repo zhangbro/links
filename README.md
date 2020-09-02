@@ -1,3 +1,9 @@
+---
+typora-root-url: ./img
+---
+
+<img src="/../0dacb55fb5ecb45a31cfba519822a034.jpeg" alt="0dacb55fb5ecb45a31cfba519822a034" style="zoom:100%;" />
+
 # Links - 一些有用的工具
 
 ---
@@ -5,14 +11,10 @@
 ## 学习
 
 - [【软件版本号命名规范】](https://semver.org/lang/zh-CN/) 软件版本号命名规范
-
 - [【Markdown语法-简书】](https://www.jianshu.com/p/191d1e21f7ed/) Markdown语法
 - [【Markdown语法-Github】](https://guides.github.com/features/mastering-markdown/) Markdown语法 Github（官方英文版本）
-
 - [【Github】](https://github.com/Snailclimb/JavaGuide) [【Gitee】](https://gitee.com/SnailClimb/JavaGuide)Java学习+面试指南，一份涵盖大部分Java程序员所需要掌握的核心知识
-
 - [【鸟哥的Linux私房菜】](http://linux.vbird.org/) Linux最强教程
-
 - [【Gradle入门-简书】](https://www.jianshu.com/p/001abe1d8e95) Gradle入门
 
 ---
