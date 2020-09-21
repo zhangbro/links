@@ -1,12 +1,8 @@
----
-typora-root-url: ./img
----
 
-<img src="/../0dacb55fb5ecb45a31cfba519822a034.jpeg" alt="0dacb55fb5ecb45a31cfba519822a034" style="zoom:100%;" />
+<img src="/../img/0dacb55fb5ecb45a31cfba519822a034.jpeg" alt="图片呢？？？" style="zoom:100%;" />
 
 # Links - 一些有用的工具
 
----
 
 ## 学习
 
@@ -17,7 +13,6 @@ typora-root-url: ./img
 - [【鸟哥的Linux私房菜】](http://linux.vbird.org/) Linux最强教程
 - [【Gradle入门-简书】](https://www.jianshu.com/p/001abe1d8e95) Gradle入门
 
----
 
 ## 工具｜仓库导航
 
