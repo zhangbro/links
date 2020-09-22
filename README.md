@@ -1,12 +1,6 @@
----
-typora-root-url: ./img
----
-
-<img src="/../0dacb55fb5ecb45a31cfba519822a034.jpeg" alt="0dacb55fb5ecb45a31cfba519822a034" style="zoom:100%;" />
+<img src="http://imarks.zhangbro23.cn/qiaoba.jpeg" alt="图片呢？" style="zoom:100%;" />
 
 # Links - 一些有用的工具
-
----
 
 ## 学习
 
@@ -17,8 +11,6 @@ typora-root-url: ./img
 - [【鸟哥的Linux私房菜】](http://linux.vbird.org/) Linux最强教程
 - [【Gradle入门-简书】](https://www.jianshu.com/p/001abe1d8e95) Gradle入门
 
----
-
 ## 工具｜仓库导航
 
 - [【Navicat-keygen】](https://github.com/JohnHubcr/navicat-keygen) 嗯 没错！
@@ -27,8 +19,6 @@ typora-root-url: ./img
 - [【docker官方镜像】](https://github.com/docker-library/docs) docker官方镜像
 - [【Java版本切换】 ](https://github.com/jenv/jenv) jenv  Java版本管理
 - [【微信开发者联盟-Java-SDK】](https://github.com/Wechat-Group/WxJava) 微信开发SDK
-
-
 
 ## IDEA 插件导航 链接后面是名称 (jetbrain产品皆可一试)
 
