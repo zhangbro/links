@@ -24,6 +24,7 @@
 ## IDEA 插件导航 链接后面是名称 (jetbrain产品皆可一试)
 
 - [【好东西分享，懂吧？】](https://tech.souyunku.com/?p=16235) 哎嘿～最新版到2020.3
+- [【备用链接】](http://idea.studycoder.com/10086.html) 上面链接可能用不了，试试这个
 - [【IDEA 插件官网】](https://plugins.jetbrains.com/) IDEA 插件官网
 - [【阿里巴巴代码规约扫描】](https://plugins.jetbrains.com/plugin/10046-alibaba-java-coding-guidelines/) Alibaba Java Coding Guidelines
 - [【字符串操作插件，可代替 camelCase】](https://plugins.jetbrains.com/plugin/2162-string-manipulation) String Manipulation
